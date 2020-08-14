@@ -1,0 +1,13 @@
+F:\VISUAL BASIC\Inventory management system\bin\Debug\Inventory management system.exe.config
+F:\VISUAL BASIC\Inventory management system\bin\Debug\Inventory management system.exe
+F:\VISUAL BASIC\Inventory management system\bin\Debug\Inventory management system.pdb
+F:\VISUAL BASIC\Inventory management system\bin\Debug\Inventory management system.xml
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory management system.vbprojAssemblyReference.cache
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory_management_system.Form1.resources
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory_management_system.Resources.resources
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory management system.vbproj.GenerateResource.cache
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory management system.exe
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory management system.xml
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory management system.pdb
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory_management_system.login.resources
+F:\VISUAL BASIC\Inventory management system\obj\Debug\Inventory_management_system.registration.resources
